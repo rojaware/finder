@@ -68,3 +68,19 @@ Client model
    scripts/controllers/main.js as clientApp, MainCtrl
    scripts/controllers/about.js as clientApp, AboutCtrl
 
+How to export/import data into mongo db
+1. go to the server/export directory
+2. (export) mongoexport --db finder --collection programs programs.json
+3. (import) mongoimport --db finder --collection programs programs.json
+4. (import on cloud) C:\modules\finder\server\export>mongoimport -h ds061621.mongolab.com:61621 -u scott -p 1 --db finder --collection programs programs.json
+
+
+Deploy mongodb on Cloud - 
+
+To connect using the shell:
+mongo ds061621.mongolab.com:61621/finder -u rojaware -p 1
+To connect using a driver via the standard URI (what's this?):
+  mongodb://rojaware:1@ds061621.mongolab.com:61621/finder
+
+Deploy application on Cloud 
+

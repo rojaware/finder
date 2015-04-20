@@ -1,0 +1,72 @@
+{
+    "__v": 0,
+    "_id": {
+        "$oid": "553155eac4c6b1642649b715"
+    },
+    "college": "Sheridan",
+    "title": "Computer Systems Technology - Systems Analyst",
+    "url": "https://www.sheridancollege.ca/academics/programs-and-courses/computer-systems-technology-systems-analyst.aspx"
+} {
+    "__v": 0,
+    "_id": {
+        "$oid": "5531577ac4c6b1642649b716"
+    },
+    "college": "Sheridan",
+    "title": "Computer Systems Technician - Software Engineering",
+    "url": "https://www.sheridancollege.ca/academics/programs-and-courses/computer-systems-technician-software-engineering.aspx"
+} {
+    "__v": 0,
+    "_id": {
+        "$oid": "553157aec4c6b1642649b717"
+    },
+    "college": "Sheridan",
+    "title": "Computer Programmer",
+    "url": "https://www.sheridancollege.ca/academics/programs-and-courses/computer-programmer.aspx"
+} {
+    "__v": 0,
+    "_id": {
+        "$oid": "55315827c4c6b1642649b718"
+    },
+    "college": "Humber",
+    "title": "Computer Programmer",
+    "url": "http://www.humber.ca/program/computer-programmer"
+} {
+    "__v": 0,
+    "_id": {
+        "$oid": "553158bbc4c6b1642649b719"
+    },
+    "college": "Humber",
+    "title": "Information Technology Solutions",
+    "url": "http://www.humber.ca/program/information-technology-solutions"
+} {
+    "__v": 0,
+    "_id": {
+        "$oid": "55315a2cc4c6b1642649b71a"
+    },
+    "college": "Conestoga",
+    "title": "Computer Programmer/Analyst",
+    "url": "http://www.conestogac.on.ca/fulltime/0057.jsp"
+} {
+    "__v": 0,
+    "_id": {
+        "$oid": "553173bad4d8de9c2755cd31"
+    },
+    "college": "Conestoga",
+    "employmentRate": 22,
+    "isOpen": true,
+    "length": 4,
+    "province": "ON",
+    "title": "aaaa",
+    "url": "http://www.conestogac.on.ca/fulltime/1077.jsp"
+} {
+    "_id": {
+        "$oid": "5531a4b4bb4fff9ef2c24819"
+    },
+    "college": "Conestoga",
+    "employmentRate": 22,
+    "isOpen": true,
+    "length": 4,
+    "province": "ON",
+    "title": "bbbb",
+    "url": "http://www.conestogac.on.ca/fulltime/1077.jsp"
+}

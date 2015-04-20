@@ -21,8 +21,8 @@ app.use(function(req, res, next) {
 });
 
 // Connect to MongoDB - mongodb://<dbuser>:<dbpassword>@ds061621.mongolab.com:61621/finder
-// mongoose.connect('mongodb://scott:1@ds061621.mongolab.com:61621/finder');
-mongoose.connect('mongodb://localhost/finder');
+mongoose.connect('mongodb://scott:1@ds061621.mongolab.com:61621/finder');
+// mongoose.connect('mongodb://localhost/finder');
 mongoose.connection.once('open', function() {
 
   // Load the models.
